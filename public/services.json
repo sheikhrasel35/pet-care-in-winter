@@ -1,0 +1,75 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold. Our expert team ensures perfect fit and maximum warmth for your furry friend.",
+    "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=400&h=400&fit=crop&crop=center",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo. Special attention to paw pads and coat conditioning for harsh weather.",
+    "image": "https://images.unsplash.com/photo-1574158622682-e40e69881006?w=400&h=400&fit=crop&crop=center",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Indoor Winter Exercise Program",
+    "providerName": "ActivePaws Fitness",
+    "providerEmail": "contact@activepaws.com",
+    "price": 20,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Structured indoor exercise routines to keep your pet active during winter months. Includes mental stimulation and physical activities.",
+    "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=400&h=400&fit=crop&crop=center",
+    "category": "Exercise"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Nutrition Consultation",
+    "providerName": "PetWell Nutrition",
+    "providerEmail": "info@petwell.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Personalized nutrition plans for winter months. Expert advice on maintaining optimal weight and energy levels during cold weather.",
+    "image": "https://images.unsplash.com/photo-1571566882372-1598d88abd90?w=400&h=400&fit=crop&crop=center",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Emergency Winter Pet Care",
+    "providerName": "WarmPaws Emergency",
+    "providerEmail": "emergency@warmpaws.com",
+    "price": 50,
+    "rating": 4.6,
+    "slotsAvailable": 1,
+    "description": "24/7 emergency care services for winter-related pet health issues. Quick response for hypothermia, frostbite, and cold weather emergencies.",
+    "image": "https://images.unsplash.com/photo-1596854407944-bf87f6fdd49e?w=400&h=400&fit=crop&crop=center",
+    "category": "Emergency"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Pet Photography Session",
+    "providerName": "SnowyPaws Photography",
+    "providerEmail": "book@snowypaws.com",
+    "price": 40,
+    "rating": 4.8,
+    "slotsAvailable": 5,
+    "description": "Professional winter-themed photography sessions for your pets. Capture beautiful memories in snowy settings with warm, cozy props.",
+    "image": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=400&h=400&fit=crop&crop=center",
+    "category": "Photography"
+  }
+]
+
